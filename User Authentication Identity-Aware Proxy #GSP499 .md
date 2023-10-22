@@ -25,7 +25,7 @@ cat > details.json << EOF
 EOF
 cat details.json
 ```
->before copy and pasting replace the gmail named(Developer contact information)
+>Before copy and pasting replace the gmail named(Developer contact information) with your any random gmail
 
 >Press 10 and y when asked (3 times it will ask for y)
 
